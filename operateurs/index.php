@@ -61,7 +61,7 @@ echo $age . ' ans';
 $i = 0;
 $i++; //$i = $i + 1;
 // echo $i;
-
+echo ("</br>");
 $j = 10;
 $j +=2; // $j = $j - 1;
-echo $j;
+echo ("le jour est :" . " " .$j);
