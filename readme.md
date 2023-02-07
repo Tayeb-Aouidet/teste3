@@ -25,7 +25,7 @@ un deuxième paragraphe blabla
 
 [documentation, manuel ph] (www.php.net/manual/fr/)
 
-[generer un gitignore](www.toptal.com)
+[generer un gitignore](https://www.toptal.com/developers/gitignore)
 \# ce n'est pas un titre
 
 ---
