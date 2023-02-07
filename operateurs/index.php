@@ -53,6 +53,6 @@ $calcul5 = $p + (($p * $t)/100);
 //calculer l'age d'une personne en fonction de son année de naissance
 $anneeDeNaissance = 1990;
 $anneeEnCours = date('Y');
-$calcul7 = $anneeEnCours - $anneeDeNaissance;
+$age = $anneeEnCours - $anneeDeNaissance;
 //echo $anneeEnCours;
-echo $calcul7;
+echo $age;
