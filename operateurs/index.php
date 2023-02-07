@@ -65,3 +65,6 @@ echo ("</br>");
 $j = 10;
 $j +=2; // $j = $j - 1;
 echo ("le jour est :" . " " .$j);
+echo ("</br>");
+echo ("le jour1 est :" . " " .$j);
+
