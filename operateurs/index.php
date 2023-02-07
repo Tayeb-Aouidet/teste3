@@ -55,4 +55,13 @@ $anneeDeNaissance = 1990;
 $anneeEnCours = date('Y');
 $age = $anneeEnCours - $anneeDeNaissance;
 //echo $anneeEnCours;
-echo $age;
+echo $age . ' ans';
+'<hr>';
+
+$i = 0;
+$i++; //$i = $i + 1;
+// echo $i;
+
+$j = 10;
+$j +=2; // $j = $j - 1;
+echo $j;
