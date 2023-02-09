@@ -1,5 +1,8 @@
-<footer>
-            <p>PHP - 2023</p>
-        </footer>
+ <!-- Footer -->
+ <footer>
+    <p>Powered by <a href="https://www.footer.com" title="footer" target="_blank">footer</a></p>
+  </footer>
+  
 </body>
+
 </html>
