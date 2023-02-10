@@ -1,8 +1,5 @@
 <?php
 include './partials/head.php';
-//include_once './partials/header.php';
-// include_once './partials/header.php';
-// require './partials/header.php';
 ?>
 <main>
     <?php include './partials/header.php'?>
