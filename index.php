@@ -2,11 +2,10 @@
 include './partials/head.php';
 ?>
 <main>
-    <?php include './partials/header.php'?>
-    <?php include './partials/nav.php'?>
+  <?php include './partials/header.php' ?>
+  <?php include './partials/nav.php' ?>
 
-
-    <div class="timeHeader">
+  <div class="timeHeader">
     <span>Open from 10am to 12pm</span>
   </div>
   <!-- Menu Container -->
@@ -75,7 +74,7 @@ include './partials/head.php';
       <hr>
 
       <hh3><span class="bold">Tomozzarella</span> <span class="price">$10.50</span></h3>
-      <p>Tomatoes and mozzarella</p>
+        <p>Tomatoes and mozzarella</p>
     </div>
 
   </section>
@@ -128,4 +127,4 @@ include './partials/head.php';
       </form>
     </div>
   </section>
-  <?php include './partials/footer.php'?>
+  <?php include './partials/footer.php' ?>
